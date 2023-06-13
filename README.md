@@ -5,6 +5,11 @@
 ### . Room Database
 ### . MVVM Architectur
 ### . Dagger Hilt
+![Bildschirmfoto 2023-06-13 um 11 51 31](https://github.com/Emami-114/Abschluss_Projekt_LearnApp_Android-Modul/assets/114245656/8d6a5a34-6387-4bab-b919-a1a44f1aac22)
+![Bildschirmfoto 2023-06-13 um 11 51 54](https://github.com/Emami-114/Abschluss_Projekt_LearnApp_Android-Modul/assets/114245656/58ba5aa8-bbaa-4516-9080-6339515be8a2)
+![Bildschirmfoto 2023-06-13 um 11 52 07](https://github.com/Emami-114/Abschluss_Projekt_LearnApp_Android-Modul/assets/114245656/96c5db4d-490e-4bb8-bbd3-0eeea1cacadd)
+![Bildschirmfoto 2023-06-13 um 11 52 41](https://github.com/Emami-114/Abschluss_Projekt_LearnApp_Android-Modul/assets/114245656/0856e88f-43a3-424b-bd36-5b51aef7b753)
+![Bildschirmfoto 2023-06-13 um 11 52 52](https://github.com/Emami-114/Abschluss_Projekt_LearnApp_Android-Modul/assets/114245656/f164fd43-1d06-4512-ac86-b793b4503bd1)
 
 ![Bildschirmfoto 2023-06-13 um 10 30 42](https://github.com/Emami-114/Abschluss_Projekt_LearnApp_Android-Modul/assets/114245656/bda6fdf7-8829-4eb8-9086-d83f55199ea7)
 ![Bildschirmfoto 2023-06-13 um 10 29 09](https://github.com/Emami-114/Abschluss_Projekt_LearnApp_Android-Modul/assets/114245656/0528c30c-546d-432c-a163-4839a3bf50f5)

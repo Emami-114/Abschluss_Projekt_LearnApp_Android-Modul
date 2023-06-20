@@ -1,5 +1,4 @@
 # Android Abschluss_Projekt LearnApp mit Jetpack compose
-# *** Noch in Bearbeitung ***
 ### . Firebase und FireStore
 ### . Retrofit
 ### . Room Database
